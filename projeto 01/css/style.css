@@ -1,0 +1,45 @@
+*{
+	margin: 2%;
+	margin-top: 10px;	
+	padding: 0;
+}
+
+table{
+	width: 95%;
+}
+
+a:link{
+	text-decoration: none;
+	font-weight: bold;
+	border-width: 2px;
+	border-style: solid;
+}
+
+a:hover{
+	text-decoration: none;
+	color: white;
+	background-color: black;
+}
+
+img{
+	width: 95%;
+}
+
+h2, h4{
+	font-family: Andale Mono, monospace;
+}
+
+p{
+	font-size: 17px;
+}
+
+.logo{
+	font-family: Andale Mono, monospace;
+	font-size: 30px;
+}
+
+.menu{	
+	font-size: 17px;
+	color: black;
+	text-align: right;
+}
